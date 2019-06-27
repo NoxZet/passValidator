@@ -1,0 +1,4 @@
+    At least 8 characters
+    At least one lowercase letter, one uppercase letter, one digit, one special character
+    No digit more than 3 times consecutively
+    Must not contain '123'
